@@ -48,7 +48,7 @@ Learning: **C**
 
 [LinkedIn](https://www.linkedin.com/in/wamiq-mushtaq-079a07242/) &nbsp;·&nbsp;
 
-&nbsp;·&nbsp; wamikmk@gmail.com
+wamikmk@gmail.com
 
 <!--
 **Wamikmk/Wamikmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
