@@ -37,10 +37,10 @@ Learning: **C**
 &nbsp;
 
 #### Currently
-
+- Learning Natural language Processing
 - Learning **C** — starting from a word-frequency counter, working up to a tiny memory allocator. The goal isn't another project; it's losing the fear of `malloc`.
 - Extending **Book of Artifacts** — interactive explainers for concepts textbook notation tends to butcher.
-- Open to work — reach out below.
+- reach out below.
 
 &nbsp;
 
