@@ -46,7 +46,7 @@ Learning: **C**
 
 #### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/wamiq-mushtaq-079a07242/) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/wamiq-mushtaq-079a07242/) &nbsp;
 
 wamikmk@gmail.com
 
