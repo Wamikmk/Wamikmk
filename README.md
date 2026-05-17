@@ -2,7 +2,7 @@
 
 Final-year BS in Data Science & Applications at IIT Madras.
 
-I build ML systems, Python automation, and interactive explainers. When a project teaches me something about *how* to build or *how* to learn, I write the playbook so the next one doesn't start from zero.
+I build ML systems, Python automation, AI agents, and interactive explainers.. When a project teaches me something about *how* to build or *how* to learn, I write the playbook so the next one doesn't start from zero.
 
 &nbsp;
 
